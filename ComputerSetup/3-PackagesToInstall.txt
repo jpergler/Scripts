@@ -1,0 +1,16 @@
+googlechrome
+vlc
+winrar
+7zip
+visualstudiocode
+notepadplusplus
+pspad
+keepass
+paint.net
+git
+tortoisegit
+sysinternals
+adobereader
+teamviewer
+pulseway
+spotify
