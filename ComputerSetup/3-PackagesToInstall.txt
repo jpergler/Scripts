@@ -8,6 +8,7 @@ pspad
 keepass
 paint.net
 git
+poshgit
 tortoisegit
 sysinternals
 adobereader
