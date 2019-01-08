@@ -14,4 +14,4 @@ sysinternals
 adobereader
 teamviewer
 pulseway
-spotify
+fsviewer
