@@ -1,0 +1,1 @@
+docker run -d -p 27017:27017 -v ~/MongoDB/data:/data/db --name mongo-dev arm64v8/mongo
